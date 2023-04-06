@@ -1,0 +1,39 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T04:19:23Z",
+  "IdClaims": [
+    {
+      "Claim": "t:heronflock"
+    },
+    {
+      "Claim": "mdon:@heronflock@mastodon.social"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "a7990e1498a45c2e1a69125f",
+    "Timestamp": "2023-04-06T05:01:58Z",
+    "Signature": "1eae7d688a01f784a1e348110dcef3f1ab1e292b1cf6e673636c691efaf5f7782143e4d145dbc4b3e6ae4f6eabfc9582c50cb782ead70b09e8b3a4350b9a3415bd8d1a2128293f6f2ea408e0eb5d77901cbcef7607fc9a5c0f45d435f04bfd42d6238909173aaf5273c8f4e25a31e4e43126bf042ad4d1e12d505ae131038adbfcee31e2c54bb3d128927610c8065c6cf3edbd88571464e0289a7c8f15c6144acaecbef9fad66979582e35eaaa22fda5bd09cd68a295033cbb2523456cccfc6c39afcb3a733dd1908b543ff23a73c141461d468044b45978e2e24ab5a9cc7669c52e44c8e9a802f5c14c6eb65eb7c8ae5e00329e3daa097d8b45a46065acc365"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "5f49f9c4b1e0858f5feee12fb5debf71b67da25a773e643ef22fe4a7c73f3933",
+  "ContentToHash": "v1|mdon:@heronflock@mastodon.social,med:no-account,pat:no-account,post:no-account,spout:no-account,ss:no-account,t:heronflock|2023-04-06T04:19:23Z"
+}
